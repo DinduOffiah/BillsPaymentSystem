@@ -1,0 +1,14 @@
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\bin\Debug\net7.0\BillsPaymentSystem.DAL.deps.json
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\bin\Debug\net7.0\BillsPaymentSystem.DAL.runtimeconfig.json
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\bin\Debug\net7.0\BillsPaymentSystem.DAL.dll
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\bin\Debug\net7.0\BillsPaymentSystem.DAL.pdb
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.AssemblyInfo.cs
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.dll
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\refint\BillsPaymentSystem.DAL.dll
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.pdb
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\BillsPaymentSystem.DAL.genruntimeconfig.cache
+C:\Users\Nwachukwu\source\repos\BillsPaymentSystem\BillsPaymentSystem.DAL\obj\Debug\net7.0\ref\BillsPaymentSystem.DAL.dll

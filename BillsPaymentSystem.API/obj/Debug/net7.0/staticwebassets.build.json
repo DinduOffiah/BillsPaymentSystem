@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0UXsfybWNh8RvmqzC37lFaWaGohFo9OtSL6vSfnAZOw=",
+  "Source": "BillsPaymentSystem.API",
+  "BasePath": "_content/BillsPaymentSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
